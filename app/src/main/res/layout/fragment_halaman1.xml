@@ -30,28 +30,32 @@
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
     </LinearLayout>
 
     <LinearLayout
@@ -66,28 +70,32 @@
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
     </LinearLayout>
 
     <LinearLayout
@@ -102,28 +110,32 @@
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="15dp"
             android:layout_weight="1"
-            app:cardBackgroundColor="#03A9F4" />
+            app:cardBackgroundColor="#03A9F4"
+            app:cardCornerRadius="10dp" />
     </LinearLayout>
 
     <LinearLayout
